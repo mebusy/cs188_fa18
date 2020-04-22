@@ -24,4 +24,6 @@
 
 # 3 Informed Search
 
+- A\*
+    - heuristic 不能太悲观
 
