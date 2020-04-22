@@ -15,4 +15,13 @@
     - Natural language, vision, robotics, games, ...
 
 
+# 2 Uninformed Search
+
+1. DFS  depth first search
+2. BFS  breadth first search
+3. UCS  uniform cost search
+
+
+# 3 Informed Search
+
 
