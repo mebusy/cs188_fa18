@@ -27,5 +27,7 @@
 - A\*
     - UCS + Greedy Search
     - heuristic 不能太悲观
-    
+    - often use relaxed-problem heuristic
+    - semi-Lattice
+
 
