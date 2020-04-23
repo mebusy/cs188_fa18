@@ -25,5 +25,7 @@
 # 3 Informed Search
 
 - A\*
+    - UCS + Greedy Search
     - heuristic 不能太悲观
+    
 
