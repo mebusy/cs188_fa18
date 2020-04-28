@@ -27,7 +27,15 @@
 - A\*
     - UCS + Greedy Search
     - heuristic 不能太悲观
+        - tree search: Admissible Heuristic
+        - graph search: consistency Heuristic to solve the problem caused by `closed` set
     - often use relaxed-problem heuristic
     - semi-Lattice
 
+# 4 CSP
 
+- Backtracking Search
+    - the basic **uninformed** algorithm for solving CSPs
+    - DFS + variable-ordering + fail-on-violation
+- Improved Backtracking
+    - filtering 
