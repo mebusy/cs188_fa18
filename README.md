@@ -39,3 +39,5 @@
     - DFS + variable-ordering + fail-on-violation
 - Improved Backtracking
     - filtering 
+        - forward checking + arc consistency
+
