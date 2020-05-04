@@ -40,8 +40,10 @@
 - Improved Backtracking
     - filtering 
         - forward checking + arc consistency
-    - ordering 
+    - ordering : **hardest variable, easiest value**
         - Variable: MRV  minimum remaining values
         - Values: LCV  least constraining value
-        - **hardest variable, easiest value**
+
+
+
 
