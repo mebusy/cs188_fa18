@@ -43,6 +43,7 @@
     - ordering : **hardest variable, easiest value**
         - Variable: MRV  minimum remaining values
         - Values: LCV  least constraining value
+- Improving Structure 
 
 
 
