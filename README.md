@@ -44,6 +44,9 @@
         - Variable: MRV  minimum remaining values
         - Values: LCV  least constraining value
 - Improving Structure 
+- Iterative Improvement
+    - randomly pick variable
+    - reassign a value that violates the fewest constraints
 
 
 
