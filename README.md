@@ -26,7 +26,7 @@
 
 - A\*
     - UCS + Greedy Search
-    - heuristic 不能太悲观
+    - heuristic
         - tree search: Admissible Heuristic
         - graph search: consistency Heuristic to solve the problem caused by `closed` set
     - often use relaxed-problem heuristic
