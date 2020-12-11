@@ -96,6 +96,9 @@
 - causal chain , and common cause can represent same distributiosn, they are effectively equivalent structures.
 
 
+# Neural Network
+
+http://playground.tensorflow.org/
 
 
 
